@@ -1,0 +1,2058 @@
+[
+{
+"COLLECTION": "Base cloud ",
+"New users": 6
+},
+{
+"COLLECTION": "CalliName",
+"New users": 13
+},
+{
+"COLLECTION": "Pixel Birds",
+"New users": 3
+},
+{
+"COLLECTION": "BasePaint Fan Club",
+"New users": 1
+},
+{
+"COLLECTION": "Based Galaxy",
+"New users": 4
+},
+{
+"COLLECTION": "XEN Torrent",
+"New users": 5
+},
+{
+"COLLECTION": "DogeDogeDoge",
+"New users": 1
+},
+{
+"COLLECTION": "Blue Meme",
+"New users": 1
+},
+{
+"COLLECTION": "Baldbase",
+"New users": 2
+},
+{
+"COLLECTION": "BlobStarsNFT",
+"New users": 1
+},
+{
+"COLLECTION": "The Base",
+"New users": 5
+},
+{
+"COLLECTION": "Parallel Starter Packs",
+"New users": 1
+},
+{
+"COLLECTION": "Spottie WiFi x Jim Jones: Buy the Dips",
+"New users": 2
+},
+{
+"COLLECTION": "Atari Summer Camp",
+"New users": 66
+},
+{
+"COLLECTION": "Somnia",
+"New users": 1
+},
+{
+"COLLECTION": "Caricatured Kitties",
+"New users": 5
+},
+{
+"COLLECTION": "Base Wheel",
+"New users": 2
+},
+{
+"COLLECTION": "YOU WIN!!",
+"New users": 2
+},
+{
+"COLLECTION": "CONFUSING",
+"New users": 4
+},
+{
+"COLLECTION": "Metamorphic Modules",
+"New users": 3
+},
+{
+"COLLECTION": "BASE MINT RECORD",
+"New users": 4
+},
+{
+"COLLECTION": "TribalElegance",
+"New users": 2
+},
+{
+"COLLECTION": "Learning To Double Dutch",
+"New users": 3
+},
+{
+"COLLECTION": "ORBS by Tristtsan Rettich",
+"New users": 1
+},
+{
+"COLLECTION": "DackieSwap Positions NFT",
+"New users": 8
+},
+{
+"COLLECTION": "friend.tech.graphs",
+"New users": 1
+},
+{
+"COLLECTION": "alien ufo",
+"New users": 1
+},
+{
+"COLLECTION": "RA/L",
+"New users": 1
+},
+{
+"COLLECTION": "Based Fellas",
+"New users": 59
+},
+{
+"COLLECTION": "Rich Apes Poker Club",
+"New users": 16
+},
+{
+"COLLECTION": "Godly Pepes",
+"New users": 3
+},
+{
+"COLLECTION": "farcasting no. 5",
+"New users": 9
+},
+{
+"COLLECTION": "Base Punks 2049",
+"New users": 1
+},
+{
+"COLLECTION": "BasePaint WIP",
+"New users": 9
+},
+{
+"COLLECTION": "NFToshis",
+"New users": 32
+},
+{
+"COLLECTION": "Based Studio",
+"New users": 1
+},
+{
+"COLLECTION": "MM4_BASE3",
+"New users": 1
+},
+{
+"COLLECTION": "Planets",
+"New users": 1
+},
+{
+"COLLECTION": "Base Man",
+"New users": 17
+},
+{
+"COLLECTION": "BIRSONBASE",
+"New users": 1
+},
+{
+"COLLECTION": "Chonk bot #1",
+"New users": 27
+},
+{
+"COLLECTION": "Ich R U",
+"New users": 16
+},
+{
+"COLLECTION": "Tripster Wally",
+"New users": 3
+},
+{
+"COLLECTION": "P3P3 The Club",
+"New users": 6
+},
+{
+"COLLECTION": "MUELE METAVALDEANDE",
+"New users": 1
+},
+{
+"COLLECTION": "Masuku Gang",
+"New users": 3
+},
+{
+"COLLECTION": "Based Opepen",
+"New users": 4
+},
+{
+"COLLECTION": "Lil Hunters #1",
+"New users": 2
+},
+{
+"COLLECTION": "Tiny Hoppers & Big Fashion",
+"New users": 227
+},
+{
+"COLLECTION": "Basebird",
+"New users": 43
+},
+{
+"COLLECTION": "⌐◨-◨ Lil Based Nouns!",
+"New users": 2
+},
+{
+"COLLECTION": "Base Xman",
+"New users": 9
+},
+{
+"COLLECTION": "Onchain Summer Flowers",
+"New users": 1
+},
+{
+"COLLECTION": "Base Domains",
+"New users": 1
+},
+{
+"COLLECTION": "Zombie GameFi",
+"New users": 1
+},
+{
+"COLLECTION": "Rainbow Unique ZORB",
+"New users": 1
+},
+{
+"COLLECTION": "Based Fashion",
+"New users": 1
+},
+{
+"COLLECTION": "cryptocat",
+"New users": 1
+},
+{
+"COLLECTION": "PEEPS A LOT HAS A PLAN",
+"New users": 25
+},
+{
+"COLLECTION": "Base Guardians: Dawn of Defenders",
+"New users": 6
+},
+{
+"COLLECTION": "Tokeneyes",
+"New users": 1
+},
+{
+"COLLECTION": "We Are Base Chads",
+"New users": 4
+},
+{
+"COLLECTION": "Base is open for everyone",
+"New users": 5
+},
+{
+"COLLECTION": "veNFT",
+"New users": 2
+},
+{
+"COLLECTION": "Base Casino",
+"New users": 1
+},
+{
+"COLLECTION": "8BIT Metropolis",
+"New users": 1
+},
+{
+"COLLECTION": "Apebase",
+"New users": 3
+},
+{
+"COLLECTION": "Base Saga",
+"New users": 17
+},
+{
+"COLLECTION": "Crypto-Native",
+"New users": 7
+},
+{
+"COLLECTION": "Puncats",
+"New users": 1
+},
+{
+"COLLECTION": "Based Ape Kings",
+"New users": 6
+},
+{
+"COLLECTION": "Based OnChain Punks",
+"New users": 21
+},
+{
+"COLLECTION": "FREEMINT BASE POWERGIRLS",
+"New users": 7
+},
+{
+"COLLECTION": "Baseman",
+"New users": 1
+},
+{
+"COLLECTION": "Based Robots",
+"New users": 11
+},
+{
+"COLLECTION": "Base Summer Punks",
+"New users": 3
+},
+{
+"COLLECTION": "PepePunks",
+"New users": 10
+},
+{
+"COLLECTION": "BasedBeachgirls",
+"New users": 1
+},
+{
+"COLLECTION": "Pixel + Music Fest Poster",
+"New users": 4
+},
+{
+"COLLECTION": "The Gringo",
+"New users": 5
+},
+{
+"COLLECTION": "Based Mutants",
+"New users": 1
+},
+{
+"COLLECTION": "Base Day One",
+"New users": 390
+},
+{
+"COLLECTION": "Base Gang",
+"New users": 1
+},
+{
+"COLLECTION": "Future",
+"New users": 1
+},
+{
+"COLLECTION": "Bunkz",
+"New users": 1
+},
+{
+"COLLECTION": "FM TOUR 2023",
+"New users": 30
+},
+{
+"COLLECTION": "Beagle Whitelister",
+"New users": 2
+},
+{
+"COLLECTION": "Peace",
+"New users": 1
+},
+{
+"COLLECTION": "CharmingCrypto",
+"New users": 17
+},
+{
+"COLLECTION": "Base Squad",
+"New users": 24
+},
+{
+"COLLECTION": "NftAreWorthless",
+"New users": 4
+},
+{
+"COLLECTION": "Onchain Summer",
+"New users": 2
+},
+{
+"COLLECTION": "Based Goblins",
+"New users": 1
+},
+{
+"COLLECTION": "Nauru",
+"New users": 1
+},
+{
+"COLLECTION": "YOUNG & SICK x BASE",
+"New users": 1
+},
+{
+"COLLECTION": "STYLEHARD.",
+"New users": 1
+},
+{
+"COLLECTION": "Owlto x Base Bridger",
+"New users": 3
+},
+{
+"COLLECTION": "The Key to the Basement",
+"New users": 4
+},
+{
+"COLLECTION": "Dragons Genesis",
+"New users": 4
+},
+{
+"COLLECTION": "0xD38 BASE",
+"New users": 4
+},
+{
+"COLLECTION": "Base-Web3youth",
+"New users": 9
+},
+{
+"COLLECTION": "ApesPunks Degen Gang",
+"New users": 1
+},
+{
+"COLLECTION": "KittieGal ",
+"New users": 2
+},
+{
+"COLLECTION": "BasedBallz",
+"New users": 3
+},
+{
+"COLLECTION": "Starknet work for drop",
+"New users": 7
+},
+{
+"COLLECTION": "Echo",
+"New users": 6
+},
+{
+"COLLECTION": "Tyche Yield Series",
+"New users": 1
+},
+{
+"COLLECTION": "coins of BASE",
+"New users": 1
+},
+{
+"COLLECTION": "FLUX",
+"New users": 6
+},
+{
+"COLLECTION": "BASE Crystal Toys",
+"New users": 1
+},
+{
+"COLLECTION": "The Manny Art",
+"New users": 1
+},
+{
+"COLLECTION": "Little Cyborgs",
+"New users": 1
+},
+{
+"COLLECTION": "Based Chefs Cats",
+"New users": 3
+},
+{
+"COLLECTION": "Base Ape Zombies",
+"New users": 4
+},
+{
+"COLLECTION": "Base Summer 1st Mini Treasure Hunt",
+"New users": 5
+},
+{
+"COLLECTION": "ZK ♥️♠️LUNA♦️♣️ ",
+"New users": 130
+},
+{
+"COLLECTION": "Rainbow Road",
+"New users": 20
+},
+{
+"COLLECTION": "LNRZ Presents: Marian Hill - Everytime",
+"New users": 35
+},
+{
+"COLLECTION": "Zen  禪宗",
+"New users": 6
+},
+{
+"COLLECTION": "Crazy Clown v1",
+"New users": 1
+},
+{
+"COLLECTION": "Akamigos",
+"New users": 10
+},
+{
+"COLLECTION": "Basepaint First 30 Days",
+"New users": 14
+},
+{
+"COLLECTION": "Pandra: CodeConqueror",
+"New users": 38
+},
+{
+"COLLECTION": "Obsession",
+"New users": 1
+},
+{
+"COLLECTION": "Landing on Mars",
+"New users": 9
+},
+{
+"COLLECTION": "BasePhunks",
+"New users": 2
+},
+{
+"COLLECTION": "Base Trader Girls",
+"New users": 2
+},
+{
+"COLLECTION": "Paradise",
+"New users": 54
+},
+{
+"COLLECTION": "BOB ON BASE",
+"New users": 11
+},
+{
+"COLLECTION": "Base Astrafluxe",
+"New users": 1
+},
+{
+"COLLECTION": "BasePaint 38 Days Progress",
+"New users": 15
+},
+{
+"COLLECTION": "Hamzzi Kingdoms",
+"New users": 1
+},
+{
+"COLLECTION": "Doughnuts",
+"New users": 1
+},
+{
+"COLLECTION": "Onchain Summer ENERGY ",
+"New users": 1
+},
+{
+"COLLECTION": "BasePaint All in One",
+"New users": 1
+},
+{
+"COLLECTION": "Bridge to Base",
+"New users": 660
+},
+{
+"COLLECTION": "Casper",
+"New users": 82
+},
+{
+"COLLECTION": "Base Punk",
+"New users": 32
+},
+{
+"COLLECTION": "Basebolls",
+"New users": 1
+},
+{
+"COLLECTION": "Rhino Base Activity Tracker",
+"New users": 1
+},
+{
+"COLLECTION": "CAV!TY",
+"New users": 1
+},
+{
+"COLLECTION": "Tiny Based Frogs",
+"New users": 6
+},
+{
+"COLLECTION": "BasePunks",
+"New users": 6
+},
+{
+"COLLECTION": "Base Mainnet Zorb",
+"New users": 14
+},
+{
+"COLLECTION": "BASE CRYPTOLAND",
+"New users": 7
+},
+{
+"COLLECTION": "Rich Snek 💲",
+"New users": 23
+},
+{
+"COLLECTION": "9G Based Gang Dudes",
+"New users": 5
+},
+{
+"COLLECTION": "Fud Boys",
+"New users": 2
+},
+{
+"COLLECTION": "Shib is Free",
+"New users": 1
+},
+{
+"COLLECTION": "Stand With Crypto Supporter",
+"New users": 15
+},
+{
+"COLLECTION": "Farcaster: Dolphin",
+"New users": 25
+},
+{
+"COLLECTION": "KYC by berkut",
+"New users": 2
+},
+{
+"COLLECTION": "Base Goons",
+"New users": 6
+},
+{
+"COLLECTION": "Cybear Punks",
+"New users": 1
+},
+{
+"COLLECTION": "Base Floki 🛡",
+"New users": 1
+},
+{
+"COLLECTION": "CLASHMON MYSTERY BOX",
+"New users": 219
+},
+{
+"COLLECTION": "Childhood Dreams",
+"New users": 37
+},
+{
+"COLLECTION": "Base Punks",
+"New users": 3
+},
+{
+"COLLECTION": "Maverick Position NFT",
+"New users": 1
+},
+{
+"COLLECTION": "AIRPASS",
+"New users": 14
+},
+{
+"COLLECTION": "moonBASED",
+"New users": 2
+},
+{
+"COLLECTION": "Base Cyber Cats",
+"New users": 8
+},
+{
+"COLLECTION": "Torn",
+"New users": 5
+},
+{
+"COLLECTION": "GIRL: PARTY DRESS",
+"New users": 7
+},
+{
+"COLLECTION": "Ninja #1",
+"New users": 2
+},
+{
+"COLLECTION": "Base Girls",
+"New users": 1
+},
+{
+"COLLECTION": "Decomposizione",
+"New users": 2
+},
+{
+"COLLECTION": "NFTs2Me Owners",
+"New users": 2
+},
+{
+"COLLECTION": "based",
+"New users": 1
+},
+{
+"COLLECTION": "DeeKay Motion - New Era BTC",
+"New users": 16
+},
+{
+"COLLECTION": "Boss hunting#09",
+"New users": 1
+},
+{
+"COLLECTION": "Willea Zwey x Onchain Summer",
+"New users": 6
+},
+{
+"COLLECTION": "Base Domain Name",
+"New users": 2
+},
+{
+"COLLECTION": "Ostrich Fragments",
+"New users": 37
+},
+{
+"COLLECTION": "Jessica Yatrofsky for On Chain Summer",
+"New users": 5
+},
+{
+"COLLECTION": "1,000 True Fans",
+"New users": 7
+},
+{
+"COLLECTION": "Base Canvas",
+"New users": 1
+},
+{
+"COLLECTION": "CyberBaseRabbit",
+"New users": 1
+},
+{
+"COLLECTION": "Based Itsuki",
+"New users": 1
+},
+{
+"COLLECTION": "2P1S",
+"New users": 6
+},
+{
+"COLLECTION": "Warrior Kong",
+"New users": 1
+},
+{
+"COLLECTION": "KAZO Pill",
+"New users": 5
+},
+{
+"COLLECTION": "Folded Space",
+"New users": 1
+},
+{
+"COLLECTION": "SYOTMS",
+"New users": 1
+},
+{
+"COLLECTION": "Slingshot Onchain Summer",
+"New users": 5
+},
+{
+"COLLECTION": "Atari Camp Raglan Shirt",
+"New users": 3
+},
+{
+"COLLECTION": "Bascii",
+"New users": 1
+},
+{
+"COLLECTION": "PIN ON PONG",
+"New users": 2
+},
+{
+"COLLECTION": "Orca Squad",
+"New users": 1
+},
+{
+"COLLECTION": "Pikago",
+"New users": 1
+},
+{
+"COLLECTION": "MetaApes",
+"New users": 1
+},
+{
+"COLLECTION": "Hold CryptoWaifu ",
+"New users": 1
+},
+{
+"COLLECTION": "GangstaVerse Lootcrate",
+"New users": 7
+},
+{
+"COLLECTION": "Based Pepe Rocks",
+"New users": 3
+},
+{
+"COLLECTION": "Base OCS on Galxe - Sunshine Sippers",
+"New users": 6
+},
+{
+"COLLECTION": "Helmet City: Mecha Gardens (Teaser Trailer)",
+"New users": 3
+},
+{
+"COLLECTION": "Little Buddy",
+"New users": 6
+},
+{
+"COLLECTION": "Lonely Artificial Intelligence",
+"New users": 2
+},
+{
+"COLLECTION": "Merkly ONFT",
+"New users": 1
+},
+{
+"COLLECTION": "Bringing Dining Onchain with Blackbird",
+"New users": 1
+},
+{
+"COLLECTION": "Nano Paint 26 - 2. Spiders",
+"New users": 6
+},
+{
+"COLLECTION": "Base Builder",
+"New users": 4
+},
+{
+"COLLECTION": "Basemint Girls",
+"New users": 7
+},
+{
+"COLLECTION": "Based Onchain Cubes",
+"New users": 3
+},
+{
+"COLLECTION": "Onchain Stories with mint.fun",
+"New users": 59
+},
+{
+"COLLECTION": "NOT BASED PHUNK",
+"New users": 5
+},
+{
+"COLLECTION": "Sadie",
+"New users": 3
+},
+{
+"COLLECTION": "Base City Girl",
+"New users": 13
+},
+{
+"COLLECTION": "Pepe Punks",
+"New users": 2
+},
+{
+"COLLECTION": "Apple Tech Components Array",
+"New users": 4
+},
+{
+"COLLECTION": "BasePaint",
+"New users": 688
+},
+{
+"COLLECTION": "Aurora Borealis Dancing",
+"New users": 10
+},
+{
+"COLLECTION": "create.fun",
+"New users": 18
+},
+{
+"COLLECTION": "Screamer",
+"New users": 1
+},
+{
+"COLLECTION": "Open public ",
+"New users": 1
+},
+{
+"COLLECTION": "666 Demons from the underworld",
+"New users": 1
+},
+{
+"COLLECTION": "Omnichain Adventures Part 2",
+"New users": 625
+},
+{
+"COLLECTION": "Rainbow World",
+"New users": 49
+},
+{
+"COLLECTION": "Zonic on Base",
+"New users": 32
+},
+{
+"COLLECTION": "OAK: Every City Onchain",
+"New users": 13
+},
+{
+"COLLECTION": "exploring-base-world",
+"New users": 1
+},
+{
+"COLLECTION": "Kongbase",
+"New users": 3
+},
+{
+"COLLECTION": "A Paragon",
+"New users": 2
+},
+{
+"COLLECTION": "Gallery Mementos",
+"New users": 1
+},
+{
+"COLLECTION": "Vermene",
+"New users": 1
+},
+{
+"COLLECTION": "Noisepunks",
+"New users": 1
+},
+{
+"COLLECTION": "Adsogette",
+"New users": 1
+},
+{
+"COLLECTION": "Solo Dance",
+"New users": 1
+},
+{
+"COLLECTION": "Base Pudgy Punks",
+"New users": 1
+},
+{
+"COLLECTION": "Based Punks",
+"New users": 56
+},
+{
+"COLLECTION": "doa_044",
+"New users": 2
+},
+{
+"COLLECTION": "Not Based Punk",
+"New users": 29
+},
+{
+"COLLECTION": "The Finest Cat",
+"New users": 3
+},
+{
+"COLLECTION": "Lucid: Dream One",
+"New users": 6
+},
+{
+"COLLECTION": "Mirrors Wellness Club",
+"New users": 4
+},
+{
+"COLLECTION": "RUNAWAY",
+"New users": 5
+},
+{
+"COLLECTION": "Art Inside a Bottle",
+"New users": 2
+},
+{
+"COLLECTION": "“Dad” Demo Access Pass",
+"New users": 1
+},
+{
+"COLLECTION": "PixelSkrilex",
+"New users": 1
+},
+{
+"COLLECTION": "R.I.P",
+"New users": 1
+},
+{
+"COLLECTION": "Frame Arms Girl: JN1",
+"New users": 6
+},
+{
+"COLLECTION": "Chad Base",
+"New users": 8
+},
+{
+"COLLECTION": "nOuNchain Summer",
+"New users": 2
+},
+{
+"COLLECTION": "etorabasu",
+"New users": 2
+},
+{
+"COLLECTION": "BasePunk \"EXCLUSIVE AIRDROP\" NFT",
+"New users": 2
+},
+{
+"COLLECTION": "Moonlight Mixologists",
+"New users": 1
+},
+{
+"COLLECTION": "FreeHeroCore",
+"New users": 7
+},
+{
+"COLLECTION": "Cute Penguin",
+"New users": 3
+},
+{
+"COLLECTION": "MusicalZombie",
+"New users": 1
+},
+{
+"COLLECTION": "OoTzieS",
+"New users": 1
+},
+{
+"COLLECTION": "The Screen",
+"New users": 3
+},
+{
+"COLLECTION": "Base Onis",
+"New users": 1
+},
+{
+"COLLECTION": "Base x Fini",
+"New users": 148
+},
+{
+"COLLECTION": "THE REVERSE",
+"New users": 71
+},
+{
+"COLLECTION": "Onchain + Optimistic",
+"New users": 35
+},
+{
+"COLLECTION": "FRWC Bestiary illustrations",
+"New users": 3
+},
+{
+"COLLECTION": "vampire FANG sunglasses",
+"New users": 5
+},
+{
+"COLLECTION": "Standing Guard Humanoid",
+"New users": 1
+},
+{
+"COLLECTION": "Child's Flight in the Dark Night",
+"New users": 2
+},
+{
+"COLLECTION": "Base is for builders",
+"New users": 624
+},
+{
+"COLLECTION": "Hanakuchi",
+"New users": 33
+},
+{
+"COLLECTION": "Elysian Dreams by Luminoso Maestro",
+"New users": 3
+},
+{
+"COLLECTION": "Straw hat meow",
+"New users": 3
+},
+{
+"COLLECTION": "Base Begins",
+"New users": 1
+},
+{
+"COLLECTION": "Unbased",
+"New users": 2
+},
+{
+"COLLECTION": "KZG Summoning Ceremony",
+"New users": 1
+},
+{
+"COLLECTION": "Moissan warrior",
+"New users": 8
+},
+{
+"COLLECTION": "BASE SPACE WARS",
+"New users": 13
+},
+{
+"COLLECTION": "Base Land",
+"New users": 52
+},
+{
+"COLLECTION": "DeeKay Motion - New Era ETH",
+"New users": 43
+},
+{
+"COLLECTION": "Animated Gods",
+"New users": 4
+},
+{
+"COLLECTION": "New Punk2023 ",
+"New users": 1
+},
+{
+"COLLECTION": "Cthulhu Creatures",
+"New users": 1
+},
+{
+"COLLECTION": "Wojak Life",
+"New users": 13
+},
+{
+"COLLECTION": "A PERSONAL MANIFESTO",
+"New users": 9
+},
+{
+"COLLECTION": "Whale all the coins",
+"New users": 2
+},
+{
+"COLLECTION": "DeFrogs",
+"New users": 4
+},
+{
+"COLLECTION": "THE PIANISTS LOTTERIES | ROUND 1",
+"New users": 3
+},
+{
+"COLLECTION": "Glass Punk",
+"New users": 5
+},
+{
+"COLLECTION": "Old school punks",
+"New users": 1
+},
+{
+"COLLECTION": "Loot2: Tokenbound Character",
+"New users": 44
+},
+{
+"COLLECTION": "Calliname: Gold Pass",
+"New users": 145
+},
+{
+"COLLECTION": "Chonky Dickbutts",
+"New users": 12
+},
+{
+"COLLECTION": "Favorite Movie Actresses",
+"New users": 9
+},
+{
+"COLLECTION": "Marilyn",
+"New users": 1
+},
+{
+"COLLECTION": "Punkteens",
+"New users": 4
+},
+{
+"COLLECTION": "Smile pass! Card",
+"New users": 2
+},
+{
+"COLLECTION": "mint.fun x Base Bridge Pass",
+"New users": 9
+},
+{
+"COLLECTION": "Jai Kae Rae",
+"New users": 11
+},
+{
+"COLLECTION": "Rainbow Bears",
+"New users": 1
+},
+{
+"COLLECTION": "Womart by Jorginho Collection",
+"New users": 1
+},
+{
+"COLLECTION": "DappGate by DappLabs",
+"New users": 1
+},
+{
+"COLLECTION": "Atari Camp Trucker Hat",
+"New users": 3
+},
+{
+"COLLECTION": "KORI (on BASE)",
+"New users": 1
+},
+{
+"COLLECTION": "Fractal BASE",
+"New users": 1
+},
+{
+"COLLECTION": "G.O.A.T",
+"New users": 1
+},
+{
+"COLLECTION": "Based Management Interns",
+"New users": 1
+},
+{
+"COLLECTION": "Holographic Factory",
+"New users": 1
+},
+{
+"COLLECTION": "Pira Finance",
+"New users": 1
+},
+{
+"COLLECTION": "Based GMs",
+"New users": 33
+},
+{
+"COLLECTION": "Bas(e)tination",
+"New users": 5
+},
+{
+"COLLECTION": "Based Smokers Club",
+"New users": 17
+},
+{
+"COLLECTION": "Based Pepunks",
+"New users": 3
+},
+{
+"COLLECTION": "Calm Reflections by Luminosso Maestro, March 2019 ",
+"New users": 1
+},
+{
+"COLLECTION": "Basert De Niro says HUH",
+"New users": 1
+},
+{
+"COLLECTION": "BaseStark",
+"New users": 1
+},
+{
+"COLLECTION": "Based",
+"New users": 147
+},
+{
+"COLLECTION": "Queendom",
+"New users": 3
+},
+{
+"COLLECTION": "Plushy Brian",
+"New users": 3
+},
+{
+"COLLECTION": "Onchain Summer: Coinbase Weekly Collection",
+"New users": 9
+},
+{
+"COLLECTION": "Duckbase",
+"New users": 2
+},
+{
+"COLLECTION": "MemePunkz",
+"New users": 2
+},
+{
+"COLLECTION": "Based ShibaZ",
+"New users": 1
+},
+{
+"COLLECTION": "Based Doodle Punks",
+"New users": 2
+},
+{
+"COLLECTION": "ICONS: Lewis Osborne",
+"New users": 1
+},
+{
+"COLLECTION": "Rekt Chickens",
+"New users": 6
+},
+{
+"COLLECTION": "The Fire of the Evil God",
+"New users": 5
+},
+{
+"COLLECTION": "Layer Zero NFT",
+"New users": 2
+},
+{
+"COLLECTION": "BaseApes",
+"New users": 1
+},
+{
+"COLLECTION": "LayerZero Airdrop soon",
+"New users": 3
+},
+{
+"COLLECTION": "SS23",
+"New users": 291
+},
+{
+"COLLECTION": "Whale all the coin",
+"New users": 47
+},
+{
+"COLLECTION": "VRNouns",
+"New users": 4
+},
+{
+"COLLECTION": "Metal Cat",
+"New users": 6
+},
+{
+"COLLECTION": "APunk NFT",
+"New users": 7
+},
+{
+"COLLECTION": "drops",
+"New users": 1
+},
+{
+"COLLECTION": "Get Points",
+"New users": 5
+},
+{
+"COLLECTION": "BaseDegens",
+"New users": 1
+},
+{
+"COLLECTION": "Duck It! ",
+"New users": 2
+},
+{
+"COLLECTION": "BABY PUNK BASE NFT",
+"New users": 1
+},
+{
+"COLLECTION": "The Based Intern",
+"New users": 18
+},
+{
+"COLLECTION": "Based Zoo",
+"New users": 5
+},
+{
+"COLLECTION": "Metabase",
+"New users": 22
+},
+{
+"COLLECTION": "Based Selfie Ape",
+"New users": 14
+},
+{
+"COLLECTION": "Klara Vollstaedt Onchain Summer",
+"New users": 1
+},
+{
+"COLLECTION": "Ninja Nightshade",
+"New users": 3
+},
+{
+"COLLECTION": "Transdimensional Fox Federation",
+"New users": 1
+},
+{
+"COLLECTION": "A Vibrant Tree Paint By Servin",
+"New users": 6
+},
+{
+"COLLECTION": "Onchain Autumn",
+"New users": 2
+},
+{
+"COLLECTION": "Merge On Base",
+"New users": 1
+},
+{
+"COLLECTION": "BASE alphabet",
+"New users": 1
+},
+{
+"COLLECTION": "Summer Swarm",
+"New users": 65
+},
+{
+"COLLECTION": "тнє OWL unit",
+"New users": 1
+},
+{
+"COLLECTION": "Peace for Palestine",
+"New users": 52
+},
+{
+"COLLECTION": "one",
+"New users": 21
+},
+{
+"COLLECTION": "UNUSUAL FROG",
+"New users": 7
+},
+{
+"COLLECTION": "Base Summer Treasure Maps",
+"New users": 2
+},
+{
+"COLLECTION": "NFT-COLLECTIONS",
+"New users": 1
+},
+{
+"COLLECTION": "Slimesunday X BASE",
+"New users": 2
+},
+{
+"COLLECTION": "BaseMidPig",
+"New users": 1
+},
+{
+"COLLECTION": "DackieOnBase",
+"New users": 41
+},
+{
+"COLLECTION": "Cloud ",
+"New users": 172
+},
+{
+"COLLECTION": "Based Management",
+"New users": 33
+},
+{
+"COLLECTION": "Now I Feel It - Gen AI Voice Blend Project",
+"New users": 12
+},
+{
+"COLLECTION": "Snap Origin",
+"New users": 3
+},
+{
+"COLLECTION": "BurningBase",
+"New users": 2
+},
+{
+"COLLECTION": "Robot - Lonely! Limited!!",
+"New users": 4
+},
+{
+"COLLECTION": "From Africa, with Love",
+"New users": 14
+},
+{
+"COLLECTION": "The Guardian",
+"New users": 3
+},
+{
+"COLLECTION": "MineXcarft ",
+"New users": 1
+},
+{
+"COLLECTION": "Pixelmon Parade: A Legendary NFT Drop",
+"New users": 1
+},
+{
+"COLLECTION": "Red Enchantress",
+"New users": 25
+},
+{
+"COLLECTION": "Base Punk Onchain Summer",
+"New users": 5
+},
+{
+"COLLECTION": "Originator",
+"New users": 23
+},
+{
+"COLLECTION": "Sono Crew",
+"New users": 48
+},
+{
+"COLLECTION": "Miracle Сats",
+"New users": 1
+},
+{
+"COLLECTION": "Daydream Art by Nicholas William",
+"New users": 23
+},
+{
+"COLLECTION": "Summer Kevin",
+"New users": 54
+},
+{
+"COLLECTION": "Base Ultron Army",
+"New users": 1
+},
+{
+"COLLECTION": "Uncle Zanuk vBase",
+"New users": 3
+},
+{
+"COLLECTION": "Primapes - Base Babies",
+"New users": 5
+},
+{
+"COLLECTION": "Blkcld",
+"New users": 1
+},
+{
+"COLLECTION": "Base Owls V2",
+"New users": 3
+},
+{
+"COLLECTION": "Pollination Mecha",
+"New users": 1
+},
+{
+"COLLECTION": "Farmer Boyz",
+"New users": 3
+},
+{
+"COLLECTION": "W3A Base",
+"New users": 1
+},
+{
+"COLLECTION": "MochiArt",
+"New users": 2
+},
+{
+"COLLECTION": "L2Marathon",
+"New users": 1
+},
+{
+"COLLECTION": "1inch x Base: NFT Swapventure",
+"New users": 1
+},
+{
+"COLLECTION": "Basecamp Royale",
+"New users": 1658
+},
+{
+"COLLECTION": "USELESS NFT",
+"New users": 2
+},
+{
+"COLLECTION": "Soccer Punks",
+"New users": 2
+},
+{
+"COLLECTION": "CLASHMON VOUCHER",
+"New users": 21
+},
+{
+"COLLECTION": "Coin by Jan Robert Leegte",
+"New users": 3
+},
+{
+"COLLECTION": "DeBank",
+"New users": 1
+},
+{
+"COLLECTION": "CMBASE1",
+"New users": 1
+},
+{
+"COLLECTION": "BasedMoose",
+"New users": 1
+},
+{
+"COLLECTION": "OAK: Every City Onchain - One Thousand Local Currencies",
+"New users": 27
+},
+{
+"COLLECTION": "Based Fly Degen",
+"New users": 1
+},
+{
+"COLLECTION": "Grainy color art",
+"New users": 2
+},
+{
+"COLLECTION": "Ethereum X Base",
+"New users": 1
+},
+{
+"COLLECTION": "Based Degens",
+"New users": 1
+},
+{
+"COLLECTION": "SushiSwap V3 Positions NFT-V1",
+"New users": 1
+},
+{
+"COLLECTION": "Max Kulchinsky for On Chain Summer",
+"New users": 10
+},
+{
+"COLLECTION": "The Masterpiece Collection",
+"New users": 80
+},
+{
+"COLLECTION": "PiraNFT",
+"New users": 3
+},
+{
+"COLLECTION": "Ozukippes",
+"New users": 17
+},
+{
+"COLLECTION": "MIC RABBIT",
+"New users": 3
+},
+{
+"COLLECTION": "Nomis:Onchain Reputation Protocol",
+"New users": 3
+},
+{
+"COLLECTION": "Crypto Base",
+"New users": 195
+},
+{
+"COLLECTION": "Horizon 1",
+"New users": 24
+},
+{
+"COLLECTION": "SEAN WILLIAMS - BASE",
+"New users": 1
+},
+{
+"COLLECTION": "Ape Punks",
+"New users": 34
+},
+{
+"COLLECTION": "Base Meetups x Seoul",
+"New users": 7
+},
+{
+"COLLECTION": "Fluff Venture",
+"New users": 6
+},
+{
+"COLLECTION": "KUJIKO",
+"New users": 1
+},
+{
+"COLLECTION": "witch",
+"New users": 2
+},
+{
+"COLLECTION": "Z-SPHERE v0.1322",
+"New users": 1
+},
+{
+"COLLECTION": "Calliname: Silver Pass",
+"New users": 46
+},
+{
+"COLLECTION": "Based Bae Fae ",
+"New users": 10
+},
+{
+"COLLECTION": "ABSTRACT PAINTINGS ON BASE",
+"New users": 1
+},
+{
+"COLLECTION": "Bitphotos Base",
+"New users": 35
+},
+{
+"COLLECTION": "Voxel Ape Club (V3)",
+"New users": 1
+},
+{
+"COLLECTION": "Beagle Tribe",
+"New users": 3
+},
+{
+"COLLECTION": "RAC x Decent: Deadline",
+"New users": 60
+},
+{
+"COLLECTION": "HIDDEN",
+"New users": 1
+},
+{
+"COLLECTION": "crypto mind",
+"New users": 2
+},
+{
+"COLLECTION": "The Bored Base Club",
+"New users": 9
+},
+{
+"COLLECTION": "Bear",
+"New users": 4
+},
+{
+"COLLECTION": "Base Tamagotchi Vikings",
+"New users": 24
+},
+{
+"COLLECTION": "Base OCS NFT on Galxe",
+"New users": 74
+},
+{
+"COLLECTION": "Layer Zero Prime Quest",
+"New users": 1
+},
+{
+"COLLECTION": "Airdrop fo Life 2",
+"New users": 1
+},
+{
+"COLLECTION": "BASE CAMP",
+"New users": 128
+},
+{
+"COLLECTION": "CatZWar",
+"New users": 2
+},
+{
+"COLLECTION": "BasedNoot",
+"New users": 5
+},
+{
+"COLLECTION": "1337 Brians",
+"New users": 2
+},
+{
+"COLLECTION": "AstroMonkz",
+"New users": 2
+},
+{
+"COLLECTION": "Sally: Nexus 5G Freebie",
+"New users": 1
+},
+{
+"COLLECTION": "Base Moonpepe",
+"New users": 2
+},
+{
+"COLLECTION": "UNI BASE",
+"New users": 1
+},
+{
+"COLLECTION": "parallel",
+"New users": 411
+},
+{
+"COLLECTION": "OUT OF BREATH",
+"New users": 9
+},
+{
+"COLLECTION": "I am Early",
+"New users": 15
+},
+{
+"COLLECTION": "Gold Tier Genesis Builder",
+"New users": 3
+},
+{
+"COLLECTION": "COMPANY",
+"New users": 4
+},
+{
+"COLLECTION": "ALL FOR ONE",
+"New users": 1
+},
+{
+"COLLECTION": "Dawn Of Base",
+"New users": 1
+},
+{
+"COLLECTION": "Farcaster v3",
+"New users": 117
+},
+{
+"COLLECTION": "Base of Bored",
+"New users": 31
+},
+{
+"COLLECTION": "Silvandune City",
+"New users": 10
+},
+{
+"COLLECTION": "Based Dump Pepe",
+"New users": 2
+},
+{
+"COLLECTION": "Vibing Base Seals",
+"New users": 3
+},
+{
+"COLLECTION": "Bull & Bear",
+"New users": 3
+},
+{
+"COLLECTION": "Meepy",
+"New users": 3
+},
+{
+"COLLECTION": "Halloween Costumes",
+"New users": 1
+},
+{
+"COLLECTION": "Base Doge Club",
+"New users": 5
+},
+{
+"COLLECTION": "Base Sunflower",
+"New users": 1
+},
+{
+"COLLECTION": "Anonymon",
+"New users": 1
+},
+{
+"COLLECTION": "BPunks",
+"New users": 1
+},
+{
+"COLLECTION": "Random Drawing",
+"New users": 1
+},
+{
+"COLLECTION": "FrogiezOnBase",
+"New users": 30
+},
+{
+"COLLECTION": "STRONG IRON",
+"New users": 6
+},
+{
+"COLLECTION": "Robomeheadz Teaser",
+"New users": 14
+},
+{
+"COLLECTION": "Fractal Tapestries",
+"New users": 8
+},
+{
+"COLLECTION": "Atsuland Base Edition",
+"New users": 4
+},
+{
+"COLLECTION": "Floor x Base Mode",
+"New users": 5
+},
+{
+"COLLECTION": "Vizuki Elementals ",
+"New users": 2
+},
+{
+"COLLECTION": "Golden Bliss",
+"New users": 6
+},
+{
+"COLLECTION": "Doodled Punk Apes V1",
+"New users": 1
+},
+{
+"COLLECTION": "POTABE NFT",
+"New users": 6
+},
+{
+"COLLECTION": "Little Warriors",
+"New users": 5
+},
+{
+"COLLECTION": "Tripster x Wally Base",
+"New users": 46
+},
+{
+"COLLECTION": "James Rooster",
+"New users": 5
+},
+{
+"COLLECTION": "mintBase - Alien Invader",
+"New users": 1
+},
+{
+"COLLECTION": "Based in Space Pepe",
+"New users": 3
+},
+{
+"COLLECTION": "Saw Moe World",
+"New users": 3
+},
+{
+"COLLECTION": "ZWIST for On Chain Summer",
+"New users": 3
+},
+{
+"COLLECTION": "VabaRaha",
+"New users": 23
+},
+{
+"COLLECTION": "Optimism X Base",
+"New users": 1
+},
+{
+"COLLECTION": "Scoot",
+"New users": 3
+},
+{
+"COLLECTION": "Critters Cult",
+"New users": 1
+},
+{
+"COLLECTION": "Based Tiny Cats",
+"New users": 1
+},
+{
+"COLLECTION": "Odoodem",
+"New users": 1
+},
+{
+"COLLECTION": "Base Parody Warrior ",
+"New users": 1
+},
+{
+"COLLECTION": "Base Name Service",
+"New users": 7
+},
+{
+"COLLECTION": "Pavlovian Instinct ",
+"New users": 1
+},
+{
+"COLLECTION": "stoned ape",
+"New users": 2
+},
+{
+"COLLECTION": "Aliens on Base",
+"New users": 2
+},
+{
+"COLLECTION": "Atari Camp Fanny Pack",
+"New users": 2
+},
+{
+"COLLECTION": "Based Frogmen",
+"New users": 1
+},
+{
+"COLLECTION": "Falcon UNIT",
+"New users": 1
+},
+{
+"COLLECTION": "WDYM.WTF",
+"New users": 1
+},
+{
+"COLLECTION": "BasePaint Brush",
+"New users": 162
+},
+{
+"COLLECTION": "Pepenguins Club",
+"New users": 23
+},
+{
+"COLLECTION": "Floor Turns Two",
+"New users": 1
+},
+{
+"COLLECTION": "Angry Pepe",
+"New users": 6
+},
+{
+"COLLECTION": "Infinite NFT Expression",
+"New users": 9
+},
+{
+"COLLECTION": "MichalskyNFT Base",
+"New users": 4
+},
+{
+"COLLECTION": "Base Toadz Punks",
+"New users": 2
+},
+{
+"COLLECTION": "Neon Genesis Assets",
+"New users": 1
+},
+{
+"COLLECTION": "Base on Paragraph",
+"New users": 135
+},
+{
+"COLLECTION": "quest",
+"New users": 26
+},
+{
+"COLLECTION": "Picturesque Girls NFTs #1",
+"New users": 2
+},
+{
+"COLLECTION": "Base Lands",
+"New users": 1
+},
+{
+"COLLECTION": "Based Earthlings",
+"New users": 14
+},
+{
+"COLLECTION": "Bozo Sharx",
+"New users": 1
+},
+{
+"COLLECTION": "Pixel Pins",
+"New users": 3
+},
+{
+"COLLECTION": "Radapp",
+"New users": 2
+},
+{
+"COLLECTION": "Base Love Monster",
+"New users": 2
+},
+{
+"COLLECTION": "Based NiftyDegen",
+"New users": 1
+},
+{
+"COLLECTION": "SHORT BLUE LINE ON RED",
+"New users": 1
+},
+{
+"COLLECTION": "BaseApepes",
+"New users": 93
+},
+{
+"COLLECTION": "Based Anons",
+"New users": 12
+},
+{
+"COLLECTION": "Starknet Mainet Quantum Leap",
+"New users": 7
+},
+{
+"COLLECTION": "HorizonDEX Reinvestment Token",
+"New users": 1
+},
+{
+"COLLECTION": "Tanks War Pass",
+"New users": 3
+},
+{
+"COLLECTION": "Akinatsu MoonStar",
+"New users": 7
+},
+{
+"COLLECTION": "Based Pepe",
+"New users": 2
+},
+{
+"COLLECTION": "onchain hat - summertime blue",
+"New users": 1
+},
+{
+"COLLECTION": "Base Nogg",
+"New users": 1
+},
+{
+"COLLECTION": "Suki Gang",
+"New users": 1
+},
+{
+"COLLECTION": "Grunges",
+"New users": 2
+},
+{
+"COLLECTION": "WE",
+"New users": 1
+}
+]
